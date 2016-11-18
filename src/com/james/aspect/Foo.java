@@ -20,7 +20,8 @@ public class Foo  {
 		Foo foo = new Foo();
 		
 		foo.power(3, 7);
-		foo.power(4);		
+		foo.power(4);	
+		foo.power(11); // Nov. 18. 2016 
 	}
 
 }
